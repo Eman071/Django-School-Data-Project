@@ -9,3 +9,7 @@ Tech Stack
  Python 3.14
  Django 5.2
  SQLite
+
+ بيانات الدخول الافتراضية (Credentials)
+*   **Username:** `admin`
+*   **Password:** `admin1`
